@@ -1,3 +1,5 @@
+## This project has been archived.
+
 # Battlefield Simulator
 ### Released August 2022
 
